@@ -3,8 +3,6 @@ title: Freshly Cut Grass
 date: 2019-08-06 21:50:52
 tags:
 ---
-When we bought this house, almost three years ago, we didn't own a lawn mower.  It didn't seem
-urgent, since fall was already upon us and the grass wasn't growing as quickly as it had
-during the spring and summer.  We didn't even move in until three weeks after closing; we had
-the house painted and I did my first big kitchen project in the evenings after work before
-the house was fully suitable for habitation.
+When we bought this house, almost three years ago, we didn't own a lawn mower.  It didn't seem urgent, since fall was already upon us and the grass wasn't growing as quickly as it had during the spring and summer.  We didn't even move in until three weeks after closing; we had the house painted and I did my first big kitchen project in the evenings after work before the house was fully suitable for habitation.  Still, the growing season in Georgia lasts late into the year and eventually the lawn did need some work.  I don't entirely remember how I cut it that first time, but most likely Jenny arranged for me to borrow a lawn mower from our very friendly neighbors to make it look somewhat respectable.  Although I wanted a high quality lawn mower, I didn't have the desire or the budget to pay full price for one, so I stalked Craigslist for weeks until I found the perfect match; a lightly-used Honda that had been in storage for a few years because the owner developed allergies and switched to a lawn service.  I took it in for service the follwing spring when I couldn't get it started.  It needed a new carburetor, but has been running strong ever since.
+
+I've been reminded of this recently because of another house in our neighborhood that sold recently.  The owners didn't move in right away, and their lawn has been growing very quickly, since we're still in the middle of the growing season.  At least two other neighbors did the absentee owners the service of mowing their lawn, before one evening I decided, with Jenny's encouragement, that it was my turn.  The owners finally moved in a couple of weeks ago, but haven't yet taken care of the lawn for themselves, and it's looking as unruly as it did at its worst.  Now that they're here, none of the neighbors are as willing to volunteer their time, especially since we haven't even met them yet.
