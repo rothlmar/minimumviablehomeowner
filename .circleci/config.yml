@@ -28,4 +28,10 @@ jobs:
           key: v1-dependencies-{{ checksum "package.json" }}
 
       # run tests!
-      - run:  node_modules/hexo/bin/hexo generate
+      - run:
+          name: Hexo build
+          command: node_modules/.bin/hexo generate
+
+      - run:
+          name: Firebase deploy
+          command: node_modules/.bin/firebase deploy --token "$FIREBASE_TOKEN"
