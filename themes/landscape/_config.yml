@@ -30,10 +30,10 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-145439098-1
 gauges_analytics:
 favicon: /favicon.png
-twitter:
+twitter: rothllipsis
 fb_admins:
 fb_app_id:
 
