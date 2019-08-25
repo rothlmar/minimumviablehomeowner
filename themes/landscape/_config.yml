@@ -32,7 +32,7 @@ show_count: false
 # Miscellaneous
 google_analytics: UA-145439098-1
 gauges_analytics:
-favicon: /favicon.png
+favicon: /favicon.ico
 twitter: rothllipsis
 fb_admins:
 fb_app_id:
