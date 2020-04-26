@@ -1,0 +1,11 @@
+---
+title: Shed Roof
+date: 2020-04-26 14:19:00
+tags:
+- yard
+---
+The lot our house sits on is just a touch larger than half an acre.  In the front, a hill slopes down from the front of the house to the street, while in the back the yard is mostly level, open and grass-covered, but with a wooded area along the southern side.  In that wooded area is a small shed where we keep the lawn mower and other tools and gardening supplies.  According to the current set of HOA rules, shed construction is not permitted, but existing structures are grandfathered in.
+
+Not long after we moved in, a wind storm ripped almost all the shingles off of one side of the shed roof.  Still coming to terms with the responsibilities of homeownership, I ignored the issue for several weeks or perhaps even months.  Eventually, I asked a handyman service for an estimate.  The number they came up with for the repair was much higher than I had hoped, although I think it was fair--it was fair, and wasn't higher than I should have expected--but it motivated me to action.  While I don't begrudge someone else the cost of labor and the need to have reasonable profit margin, I recognized that putting new shingles on a shed roof was a low risk, low skill undertaking that didn't require any special expertise or tools, and that I could at least make an effort to do it myself.  I watched a couple of YouTube instructional videos, made a run to the home improvement store for nails and shingles, then climbed the ladder to get started.
+
+I removed the shingles that were loose but hadn't fallen off and realized that the job was a bit bigger than I had planned.  I think I had to go back to the store for more supplies, and ended up reusing the straightest of the old nails.  But once I got moving everything came together as well as I could have hoped.  The work is far from perfect: the shingle color doesn't quite match, and I'm not sure that the lines are quite as straight as they would be if the job had been done by a professional.  But it keeps the interior of the shed dry and nobody, including me, looks at it carefully enough to worry about the small imperfections.  Three years and many storms later, the roof is still holding strong and keeping the interior dry.
