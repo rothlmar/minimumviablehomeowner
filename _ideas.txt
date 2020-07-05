@@ -1,6 +1,7 @@
 DONE:
 Pottery bench
 Bushes, including pole trimmer (and fingers)
+Adventure wall/Travel maps
 Front hill management
 Mimosa weeds
 Fence repairs
@@ -9,7 +10,6 @@ Cabinet hinges
 Master bedroom TV (cabinet hinge repair)
 Porch swing (repair)
 Dining room table
-Adventure wall
 Bunk beds
 Front room piano, bookcases, mirror
 Rekeyed locks
@@ -25,7 +25,6 @@ Squeaking bed
 TODO:
 Bedroom seating
 Back bushes, play area
-Travel maps
 Guest bathroom wallpaper
 Downstairs door area (pavers?)
 New boat/boat storage
