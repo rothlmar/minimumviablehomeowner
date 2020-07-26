@@ -4,7 +4,6 @@ Bushes, including pole trimmer (and fingers)
 Adventure wall/Travel maps
 Front hill management
 Mimosa weeds
-Fence repairs
 Bedroom walls
 Cabinet hinges
 Master bedroom TV (cabinet hinge repair)
@@ -21,6 +20,8 @@ New couch
 Floors
 Bathroom remodel
 Squeaking bed
+Leaking basement
+Doorknobs
 
 TODO:
 Bedroom seating
