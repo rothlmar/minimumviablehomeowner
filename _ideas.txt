@@ -11,7 +11,7 @@ Porch swing (repair)
 Dining room table
 Bunk beds
 Front room piano, bookcases, mirror
-Rekeyed locks
+Rekeyed locks and broken doorknobs
 Garage keypad
 Solar-activated lights (smart switch)
 USB Outlet replacement
@@ -21,7 +21,6 @@ Floors
 Bathroom remodel
 Squeaking bed
 Leaking basement
-Doorknobs
 
 TODO:
 Bedroom seating
